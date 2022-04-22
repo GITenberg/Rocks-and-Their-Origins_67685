@@ -1,5 +1,8 @@
 _repo: Rocks-and-Their-Origins_67685
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67685-h/images/cover.png
 creator:
   author:
     agent_name: Cole, Grenville A. J. (Grenville Arthur James)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54395
     wikipedia: https://en.wikipedia.org/wiki/Grenville_Cole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67685#Rocks-and-Their-Origins
 gutenberg_issued: '2022-03-22'
 identifiers:
   gutenberg: '67685'
